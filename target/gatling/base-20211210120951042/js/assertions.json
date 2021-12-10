@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulation.Base",
+  "simulationId": "base",
+  "start": 1639138191042,
+  "description": "si",
+  "scenarios": ["Get-User"],
+  "assertions": [
+
+  ]
+}
